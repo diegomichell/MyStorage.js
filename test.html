@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test MyStorage.js</title>
+	<script type="text/javascript" src="MyStorage.js"></script>
+
+	<script type="text/javascript">
+		var person = {
+			name:"Diego",
+			lastName:"Perez",
+			ocupation:"Student/Programmer",
+			email:"ivanevil31@gmail.com",
+		}
+
+		localStorage.setObject("user",person);
+
+		var user = localStorage.getObject('user');
+		document.write(user.email);
+	</script>
+</head>
+<body>
+
+</body>
+</html>
