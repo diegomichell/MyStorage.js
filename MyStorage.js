@@ -1,6 +1,6 @@
 /**
 *	libName:MyStorage.js
-*	Author:Diego Ivan Perez Michel (ivanevi)
+*	Author:Diego Ivan Perez Michel (ivanevil)
 *		
 *	Description:	
 *	
